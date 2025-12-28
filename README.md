@@ -1,6 +1,6 @@
 # R-GEN96
 
-Named a such as my name is Rye, its a generator, and I was born in 96. 
+Named as such for my name is Rye, its a generator, and I was born in 96. 
 
 Rye-Generator 96
 
