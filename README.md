@@ -1,4 +1,8 @@
-# R-PASS
+# R-GEN96
+
+Named a such as my name is Rye, its a generator, and I was born in 96. 
+
+Rye-Generator 96
 
 <img width="614" height="591" alt="image" src="https://github.com/user-attachments/assets/ec874f10-fb39-48f8-9d09-9bd6199f8eaf" />
 
